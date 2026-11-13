@@ -177,5 +177,3 @@ playAgainBtn.addEventListener("click", function() {
     qutionScore.textContent = `0/5`
     console.log("complate captain") 
 })
-
-
